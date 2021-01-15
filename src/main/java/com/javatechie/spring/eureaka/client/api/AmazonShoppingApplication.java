@@ -18,6 +18,7 @@ public class AmazonShoppingApplication {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Vijay");
 		SpringApplication.run(AmazonShoppingApplication.class, args);
 	}
 }
